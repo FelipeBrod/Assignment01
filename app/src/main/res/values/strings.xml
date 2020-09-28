@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment - 01</string>
+    <string name="devName">Felipe Rodrigues in English </string>
+    <string name="onCreateViewBottom">onCreateView of Bottom Fragment Executed\n</string>
+    <string name="onCreateViewTop">onCreateView of Top Fragment Executed\n</string>
+    <string name="onStartTop">onStart of Top Fragment Executed\n</string>
+    <string name="onStartBottom">onStart of Bottom Fragment Executed\n</string>
+    <string name="onStart">onStart Executed\n</string>
+    <string name="onCreate">onCreate Executed\n</string>
+    <string name="onDestroy">onDestroy Executed\n</string>
+    <string name="onPause">onPause Executed\n</string>
+    <string name="onResume">onResume Executed\n</string>
+    <string name="onStop">onStop Executed\n</string>
+
+
+    <string-array name="listItemsArray">
+        <item>AIActivity</item>
+        <item>VRActivity</item>
+    </string-array>
+
+</resources>

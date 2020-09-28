@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">affectation - 01</string>
+    <string name="devName">Felipe Rodrigues en française </string>
+    <string name="onCreateViewBottom">onCreateView of Bottom Fragment réalisé\n</string>
+    <string name="onCreateViewTop">onCreateView of Top Fragment réalisé\n</string>
+    <string name="onStartTop">onStart of Top Fragment réalisé\n</string>
+    <string name="onStartBottom">onStart of Bottom Fragment réalisé\n</string>
+    <string name="onStart">onStart réalisé\n</string>
+    <string name="onCreate">onCreate réalisé\n</string>
+    <string name="onDestroy">onDestroy réalisé\n</string>
+    <string name="onPause">onPause réalisé\n</string>
+    <string name="onResume">onResume réalisé\n</string>
+    <string name="onStop">onStop réalisé\n</string>
+</resources>
